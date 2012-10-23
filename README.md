@@ -1,1 +1,1 @@
-Saint Perl workshop 2012
+Saint Perl workshop 2012.
